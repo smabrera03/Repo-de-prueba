@@ -1,0 +1,3 @@
+if(esto_es_una_cagada == True){
+	return 1;
+}
