@@ -1,8 +1,2 @@
 Esto es un archivo de prueba. Archivo#1
-Me cago en git
-
-
-Que ya la quisiera yo
-
-Modificaión#1
 
